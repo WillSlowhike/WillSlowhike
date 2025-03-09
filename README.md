@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WillSlowhike
 - 👀 I’m interested in Tech, Computer Parts, Science
-- 🌱 I’m currently learning HTML, Java
+- 🌱 I’m currently learning HTML, CSS, Java
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: https://linktr.ee/Slowhike_aka_Will
 - 😄 Pronouns: he/him/his
